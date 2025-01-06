@@ -17,8 +17,8 @@
  body{
   font-family: Verdana;
   margin-left: 5px;
-  background-color: rgb(34, 33, 33);
   background-image: conic-gradient(rgb(34, 33, 33), rgb(24, 24, 24), gray);
+
  }
 
  .container{
@@ -72,7 +72,7 @@ color:black;
  }
 
  input[type="submit"]{
-  padding: 0.45rem 1.5rem;
+  padding: 6.8px 1.5rem;
   border: none;
   border-radius: 0 1rem 1rem 0;
   background-color: rgb(27, 27, 27);
